@@ -1,2 +1,2 @@
 # sasopaun.github.io
-/ portfolio_Sasho Paunovski
+file:// portfolio_Sasho Paunovski
