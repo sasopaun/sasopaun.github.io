@@ -1,13 +1,126 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sasho Paunovski Portfolio",
+    "title": "Sasho Paunovski",
     "description": "",
     "home_page_url": "https://sasopaun.github.io",
     "feed_url": "https://sasopaun.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://sasopaun.github.io/media/website/sp_lf2.png",
     "author": {
         "name": "Sasho Paunovski"
     },
     "items": [
+        {
+            "id": "https://sasopaun.github.io/about.html",
+            "url": "https://sasopaun.github.io/about.html",
+            "title": "About",
+            "summary": " About me Hmmm, what can I say? I'm independent designer with many years of experience who is dedicate flexible i&hellip;",
+            "content_html": "<p><img class=\"post__image align-center\" src=\"https://sasopaun.github.io/media/posts/15/sasho_photo.png\" alt=\"\" width=\"150\" height=\"150\"></p>\n<p>About me</p>\n<p>Hmmm, what can I say?<br>I'm independent designer with many years of experience who is dedicate flexible i work as independently operates projects in graphic and digital design ( printed materials ,flexo, bacro –print, web design, as for publicity purposes etc )<br>I posses an excellent knowledge in design and an urge for promotion and modernization with good organizational talent for team work . I planned and accomplished many projects .My understanding and perceiving of  the needs of  clients, contributed to many stable relations between my clients from Macedonia or abroad and me.</p>\n<p>You may contact me on <a href=\"mailto:sasopaunovski@gmail.com\">sasopaunovski@gmail.com</a></p>\n<p><a href=\"https://sasopaun.github.io/portfolio_Sasho Paunovski.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">My portfolio in PDF</a></p>",
+            "image": "https://sasopaun.github.io/media/posts/15/about-me.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "About"
+            ],
+            "date_published": "2020-04-20T20:22:37+02:00",
+            "date_modified": "2020-06-01T01:31:10+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/web-design.html",
+            "url": "https://sasopaun.github.io/web-design.html",
+            "title": "Web Design",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk1.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk3.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk2.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/eagovmk2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique1.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique3.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique2.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/14/gallery/hotelromantique2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/14/web-design.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Web Design"
+            ],
+            "date_published": "2020-04-20T20:10:29+02:00",
+            "date_modified": "2020-06-01T01:31:36+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/packaging.html",
+            "url": "https://sasopaun.github.io/packaging.html",
+            "title": "Packaging",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/Zachin_Sika_200g.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/Zachin_Sika_200g-thumbnail.png\" alt=\"\" width=\"696\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/vileda.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/vileda-thumbnail.png\" alt=\"\" width=\"692\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/multimix.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/multimix-thumbnail.png\" alt=\"\" width=\"723\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/E-MAK_STIL_oriz_900g_curve.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/E-MAK_STIL_oriz_900g_curve-thumbnail.png\" alt=\"\" width=\"768\" height=\"1248\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/kenzos-chips.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/kenzos-chips-thumbnail.png\" alt=\"\" width=\"768\" height=\"1281\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/kako-malami.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/kako-malami-thumbnail.png\" alt=\"\" width=\"768\" height=\"1281\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/VijanaOmot_10_2_C.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/VijanaOmot_10_2_C-thumbnail.png\" alt=\"\" width=\"768\" height=\"331\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/OVOSEN-SOK-OD-PORTOKALI_MONTAZA-I-FILM3.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/OVOSEN-SOK-OD-PORTOKALI_MONTAZA-I-FILM3-thumbnail.png\" alt=\"\" width=\"768\" height=\"231\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/lacrima.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/lacrima-thumbnail.png\" alt=\"\" width=\"768\" height=\"188\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/13/gallery/fiesta-rolat.png\" ><img src=\"https://sasopaun.github.io/media/posts/13/gallery/fiesta-rolat-thumbnail.png\" alt=\"\" width=\"768\" height=\"258\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/13/packaging.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Packaging"
+            ],
+            "date_published": "2020-04-20T20:06:19+02:00",
+            "date_modified": "2020-06-01T01:32:03+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/covers-and-brochures.html",
+            "url": "https://sasopaun.github.io/covers-and-brochures.html",
+            "title": "Covers &amp; Brochures",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/dekus.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/dekus-thumbnail.png\" alt=\"\" width=\"768\" height=\"307\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/ubs_F3.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/ubs_F3-thumbnail.png\" alt=\"\" width=\"708\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/pcbiblekor_D.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/pcbiblekor_D-thumbnail.png\" alt=\"\" width=\"708\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/Imix.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/Imix-thumbnail.png\" alt=\"\" width=\"768\" height=\"1069\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/enigma.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/enigma-thumbnail.png\" alt=\"\" width=\"768\" height=\"1092\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/Zuica-Lazova.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/Zuica-Lazova-thumbnail.png\" alt=\"\" width=\"768\" height=\"384\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/katina.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/katina-thumbnail.png\" alt=\"\" width=\"768\" height=\"345\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/duomix2.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/duomix2-thumbnail.png\" alt=\"\" width=\"768\" height=\"307\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/12/gallery/duomix.png\" ><img src=\"https://sasopaun.github.io/media/posts/12/gallery/duomix-thumbnail.png\" alt=\"\" width=\"768\" height=\"307\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/12/covers.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Covers &amp; Brochures"
+            ],
+            "date_published": "2020-04-20T20:02:07+02:00",
+            "date_modified": "2020-06-01T01:32:24+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/logos-and-identity.html",
+            "url": "https://sasopaun.github.io/logos-and-identity.html",
+            "title": "Logos &amp; Identity",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/monolit_logo.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/monolit_logo-thumbnail.png\" alt=\"\" width=\"768\" height=\"145\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/monolit_id.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/monolit_id-thumbnail.png\" alt=\"\" width=\"768\" height=\"1086\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/zorins-net-logo.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/zorins-net-logo-thumbnail.png\" alt=\"\" width=\"768\" height=\"140\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/Zorins_memo_f_curve.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/Zorins_memo_f_curve-thumbnail.png\" alt=\"\" width=\"768\" height=\"1096\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/vision.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/vision-thumbnail.png\" alt=\"\" width=\"768\" height=\"383\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/n-cosmetics.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/n-cosmetics-thumbnail.png\" alt=\"\" width=\"768\" height=\"491\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/metalhem.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/metalhem-thumbnail.png\" alt=\"\" width=\"768\" height=\"323\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/abacus.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/abacus-thumbnail.png\" alt=\"\" width=\"768\" height=\"314\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/11/gallery/margo.png\" ><img src=\"https://sasopaun.github.io/media/posts/11/gallery/margo-thumbnail.png\" alt=\"\" width=\"768\" height=\"299\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/11/logos-and-identity.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Logos &amp; Identity"
+            ],
+            "date_published": "2020-04-20T19:55:56+02:00",
+            "date_modified": "2020-06-01T01:32:47+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/digital-art-ii.html",
+            "url": "https://sasopaun.github.io/digital-art-ii.html",
+            "title": "Digital Art II",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl6.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl6-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl5.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl5-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl4.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl4-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl3.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl3-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl2.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl2-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/10/gallery/sl1.png\" ><img src=\"https://sasopaun.github.io/media/posts/10/gallery/sl1-thumbnail.png\" alt=\"\" width=\"768\" height=\"459\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/10/digital-art-ii.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Digital Art 2"
+            ],
+            "date_published": "2020-04-20T19:50:50+02:00",
+            "date_modified": "2020-06-01T01:33:19+02:00"
+        },
+        {
+            "id": "https://sasopaun.github.io/digital-art-i.html",
+            "url": "https://sasopaun.github.io/digital-art-i.html",
+            "title": "Digital Art I",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_S_O.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_S_O-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_N_D.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_N_D-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_M_J.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_M_J-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_M_A.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_M_A-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_J_F.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_J_F-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_J_A.jpg\" ><img src=\"https://sasopaun.github.io/media/posts/9/gallery/K_2000_J_A-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div>",
+            "image": "https://sasopaun.github.io/media/posts/9/digital-art-i.png",
+            "author": {
+                "name": "Sasho Paunovski"
+            },
+            "tags": [
+                   "Work",
+                   "Digital Art 1"
+            ],
+            "date_published": "2020-04-20T19:46:43+02:00",
+            "date_modified": "2020-06-01T01:33:42+02:00"
+        }
     ]
 }
